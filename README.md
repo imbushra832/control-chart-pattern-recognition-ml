@@ -1,18 +1,3 @@
-🧠 Pattern Recognition in Process Control Charts
-Performance Evaluation of MLP, RBF, and SVM Networks
-📄 Executive Summary
-
-This project evaluates and compares the performance of three neural network models — Multilayer Perceptron (MLP), Radial Basis Function (RBF), and Support Vector Machine (SVM) — for automating pattern recognition in process control charts.
-The objective is to automate the runs rules used in Statistical Process Control (SPC) charts based on the X-Chart methodology, classifying whether a process is in statistical control or violates one of six rules. 
-SVM achieved the highest accuracy (89.2%), followed by RBF (88.4%), while MLP performed poorly (14.4%).
-Results show that radial basis function models (SVM, RBF) are inherently well-suited for recognizing localized patterns in process data.
-
-Here’s a complete, professional **README.md** for your project titled
-**“Pattern Recognition in Process Control Charts: Performance Evaluation of MLP, RBF, and SVM Networks.”**
-
-You can use this directly as your repository’s `README.md` file on GitHub.
-
----
 
 # 🧠 Pattern Recognition in Process Control Charts
 
